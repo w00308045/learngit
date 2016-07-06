@@ -4,3 +4,4 @@ Git manage changes
 Git manage changes
 Git manage changes
 Git manage changes
+Creating a new branch is quick.
